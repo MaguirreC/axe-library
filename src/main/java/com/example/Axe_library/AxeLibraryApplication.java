@@ -17,13 +17,4 @@ public class AxeLibraryApplication {
 	@Autowired
 	private PasswordEncoder passwordEncoder;
 
-
-//	@Bean
-//	public CommandLineRunner createPassword(){
-//		return args -> {
-//			System.out.println(passwordEncoder.encode("luna23"));
-//			System.out.println(passwordEncoder.encode("mahomes14"));
-//		};
-//	}
-//}
 }
